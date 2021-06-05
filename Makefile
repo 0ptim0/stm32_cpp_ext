@@ -15,7 +15,7 @@ SOURCES_S = mcu/$(MCU)/core/startup_stm32f103xb.s
 SOURCES_C_CORE = $(wildcard mcu/$(MCU)/core/*.c)
 SOURCES_C_RTOS_CORE = $(wildcard freertos/core/src/*.c)
 SOURCES_C_RTOS_PORT = $(wildcard freertos/port/$(MCU)/*.c)
-SOURCES_C_HEAP = freertos/MemMang/heap_1.c
+SOURCES_C_HEAP = $(wildcard freertos/MemMang/*.c)
 
 SOURCES_CXX_USR = $(wildcard usr/*.cpp)
 
@@ -78,7 +78,7 @@ CFLAGS_EXTRA = -nostartfiles -nodefaultlibs -nostdlib \
                -fdata-sections -ffunction-sections
 
 CFLAGS += $(DEFINES) $(MCUFLAGS) $(DEBUG_OPTIMIZE_FLAGS) $(CFLAGS_EXTRA) $(INCLUDES)
-CXXFLAGS = $(DEFINES) $(MCUFLAGS) $(DEBUG_OPTIMIZE_FLAGS) $(INCLUDES) -std=c++11
+CXXFLAGS = $(DEFINES) $(MCUFLAGS) $(DEBUG_OPTIMIZE_FLAGS) $(INCLUDES) -std=c++17
 
 LDFLAGS = -specs=nano.specs -specs=nosys.specs -static $(MCUFLAGS) -Wl,--start-group -lgcc -lc -lg -Wl,--end-group \
           -Wl,--gc-sections -T mcu/$(MCU)/core/STM32F103XB_FLASH.ld
