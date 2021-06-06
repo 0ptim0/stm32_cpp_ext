@@ -22,7 +22,6 @@ SOURCES_CXX_USR = $(wildcard usr/*.cpp)
 
 SOURCES_C = $(SOURCES_C_CORE)
 SOURCES_C += $(SOURCES_C_HAL)
-SOURCES_C += $(SOURCES_C_PERIPH)
 SOURCES_C += $(SOURCES_C_RTOS_CORE)
 SOURCES_C += $(SOURCES_C_RTOS_PORT)
 SOURCES_C += $(SOURCES_C_HEAP)
@@ -36,19 +35,19 @@ OBJS = $(SOURCES_S:.s=.o) $(SOURCES_C:.c=.o) $(SOURCES_CXX:.cpp=.o)
 # Includes and Defines
 
 INC_CORE = -Imcu/$(MCU)/core
-INC_PERIPH = -Imcu/$(MCU)/hal/ -Imcu/$(MCU)/hal/inc
+INC_HAL = -Imcu/$(MCU)/hal/inc
 INC_LIB = -Iusr
 INC_RTOS_CORE = -Ifreertos/core/inc
 INC_RTOS_PORT = -Ifreertos/port/$(MCU)
 INC_CONF = -Iconf
 INCLUDES += $(INC_CORE)
-INCLUDES += $(INC_PERIPH)
+INCLUDES += $(INC_HAL)
 INCLUDES += $(INC_LIB)
 INCLUDES += $(INC_RTOS_CORE)
 INCLUDES += $(INC_RTOS_PORT)
 INCLUDES += $(INC_CONF)
 
-DEFINES = -DSTM32 -DSTM32F1 -DSTM32F103xB -DHEAP_SIZE=$(HEAP_SIZE)
+DEFINES = -DSTM32 -DSTM32F1 -DSTM32F103xB -DHEAP_SIZE=$(HEAP_SIZE) -DUSE_HAL_DRIVER
 
 # Compiler/Assembler/Linker/etc
 
@@ -75,7 +74,7 @@ MCUFLAGS = -mcpu=cortex-m3 -mlittle-endian -mfloat-abi=soft -mthumb \
 
 DEBUG_OPTIMIZE_FLAGS = -O0 -ggdb -gdwarf-2
 
-CFLAGS = -Wall -Wextra --pedantic
+CFLAGS = -Wall -Wextra
 CFLAGS_EXTRA = -nostartfiles -nodefaultlibs -nostdlib \
                -fdata-sections -ffunction-sections
 
