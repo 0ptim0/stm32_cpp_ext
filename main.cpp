@@ -9,7 +9,17 @@ const rom_class *ptr1;
 const int *ptr2;
 int *ptr3;
 
+int init(void) {
+    GPIO_InitTypeDef GPIO_InitStructure;
+    GPIO_InitStructure.Mode = GPIO_MODE_OUTPUT_PP;
+    GPIO_InitStructure.Pin = GPIO_PIN_13;
+    GPIO_InitStructure.Pull = GPIO_NOPULL;
+    GPIO_InitStructure.Speed = GPIO_SPEED_FREQ_LOW;
+    HAL_GPIO_Init(GPIOC, &GPIO_InitStructure);
+}
+
 int main(void) {
+    init();
     int local1;
     int local2 = 5;
     static int local3;

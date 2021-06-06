@@ -15,12 +15,13 @@
         "new": "cpp",
         "*.tcc": "cpp",
         "cstdint": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "stm32f1xx_hal.h": "c"
     },
     "makefile.launchConfigurations": [
         {
-            "cwd": "/home/optim/stm32/projects/electric_load/build",
-            "binaryPath": "/home/optim/stm32/projects/electric_load/build/electric_load.elf",
+            "cwd": "/home/optim/stm32/projects/stm32_cpp_ext/build",
+            "binaryPath": "/home/optim/stm32/projects/stm32_cpp_ext/build/test.elf",
             "binaryArgs": []
         }
     ],
