@@ -1,0 +1,684 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+                              main.o (__aeabi_unwind_cpp_pr1)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(libunwind.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o) (restore_core_regs)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o) (abort)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o) (memcpy)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o) (raise)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o) (_kill_r)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o) (_malloc_r)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o) (errno)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o) (_free_r)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o) (_getpid)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o) (_kill)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+                              /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x7c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x0000000000000000       0x14 mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+ .data          0x0000000000000000        0x0 mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+ .bss           0x0000000000000000        0x0 mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+ .text          0x0000000000000000        0x0 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .data          0x0000000000000000        0x0 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .bss           0x0000000000000000        0x0 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .rodata.AHBPrescTable
+                0x0000000000000000       0x10 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xe4 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .group         0x0000000000000000       0x14 main.o
+ .group         0x0000000000000000       0x18 main.o
+ .group         0x0000000000000000       0x14 main.o
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(libunwind.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(libunwind.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+ .text.unlikely
+                0x0000000000000000        0xc /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely
+                0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely
+                0x0000000000000000       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x28 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x30 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x48 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000        0xc /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000       0xb4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000000       0x30 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x20 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0xc /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0xc /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000000000       0x90 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000000       0x38 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x2 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+ .text._sbrk    0x0000000000000000       0x1c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000020000 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+LOAD mcu/stm32f103c8t6/core/system_stm32f1xx.o
+LOAD main.o
+START GROUP
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a
+END GROUP
+START GROUP
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020004fff                _estack = 0x20004fff
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x000000000800010c     0x11b0
+                0x000000000800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x000000000800010c       0x40 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x000000000800014c       0x7c main.o
+                0x000000000800014c                main
+ .text          0x00000000080001c8      0x9e4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+                0x0000000008000488                _Unwind_GetCFA
+                0x000000000800048c                __gnu_Unwind_RaiseException
+                0x00000000080004f4                __gnu_Unwind_ForcedUnwind
+                0x0000000008000508                __gnu_Unwind_Resume
+                0x000000000800054c                __gnu_Unwind_Resume_or_Rethrow
+                0x0000000008000560                _Unwind_Complete
+                0x0000000008000564                _Unwind_DeleteException
+                0x0000000008000570                _Unwind_VRS_Get
+                0x00000000080005bc                _Unwind_VRS_Set
+                0x0000000008000604                __gnu_Unwind_Backtrace
+                0x000000000800092c                __aeabi_unwind_cpp_pr0
+                0x0000000008000930                __aeabi_unwind_cpp_pr1
+                0x0000000008000934                __aeabi_unwind_cpp_pr2
+                0x0000000008000938                _Unwind_VRS_Pop
+ .text          0x0000000008000bac      0x1ac /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(libunwind.o)
+                0x0000000008000bac                __restore_core_regs
+                0x0000000008000bac                restore_core_regs
+                0x0000000008000bc4                __gnu_Unwind_Restore_VFP
+                0x0000000008000bcc                __gnu_Unwind_Save_VFP
+                0x0000000008000bd4                __gnu_Unwind_Restore_VFP_D
+                0x0000000008000bdc                __gnu_Unwind_Save_VFP_D
+                0x0000000008000be4                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x0000000008000bec                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x0000000008000bf4                __gnu_Unwind_Restore_WMMXD
+                0x0000000008000c38                __gnu_Unwind_Save_WMMXD
+                0x0000000008000c7c                __gnu_Unwind_Restore_WMMXC
+                0x0000000008000c90                __gnu_Unwind_Save_WMMXC
+                0x0000000008000ca4                ___Unwind_RaiseException
+                0x0000000008000ca4                _Unwind_RaiseException
+                0x0000000008000cc8                ___Unwind_Resume
+                0x0000000008000cc8                _Unwind_Resume
+                0x0000000008000cec                _Unwind_Resume_or_Rethrow
+                0x0000000008000cec                ___Unwind_Resume_or_Rethrow
+                0x0000000008000d10                ___Unwind_ForcedUnwind
+                0x0000000008000d10                _Unwind_ForcedUnwind
+                0x0000000008000d34                _Unwind_Backtrace
+                0x0000000008000d34                ___Unwind_Backtrace
+ .text          0x0000000008000d58      0x38c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+                0x0000000008000db0                __gnu_unwind_execute
+                0x0000000008001094                __gnu_unwind_frame
+                0x00000000080010c4                _Unwind_GetRegionStart
+                0x00000000080010d0                _Unwind_GetLanguageSpecificData
+ *(.text*)
+ .text.Reset_Handler
+                0x00000000080010e4       0x48 mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+                0x00000000080010e4                Reset_Handler
+ .text.Default_Handler
+                0x000000000800112c        0x2 mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+                0x000000000800112c                RTC_Alarm_IRQHandler
+                0x000000000800112c                EXTI2_IRQHandler
+                0x000000000800112c                DebugMon_Handler
+                0x000000000800112c                TIM1_CC_IRQHandler
+                0x000000000800112c                HardFault_Handler
+                0x000000000800112c                SysTick_Handler
+                0x000000000800112c                PVD_IRQHandler
+                0x000000000800112c                PendSV_Handler
+                0x000000000800112c                NMI_Handler
+                0x000000000800112c                EXTI3_IRQHandler
+                0x000000000800112c                EXTI0_IRQHandler
+                0x000000000800112c                I2C2_EV_IRQHandler
+                0x000000000800112c                UsageFault_Handler
+                0x000000000800112c                ADC1_2_IRQHandler
+                0x000000000800112c                SPI1_IRQHandler
+                0x000000000800112c                TAMPER_IRQHandler
+                0x000000000800112c                DMA1_Channel4_IRQHandler
+                0x000000000800112c                USART3_IRQHandler
+                0x000000000800112c                RTC_IRQHandler
+                0x000000000800112c                DMA1_Channel7_IRQHandler
+                0x000000000800112c                CAN1_RX1_IRQHandler
+                0x000000000800112c                TIM4_IRQHandler
+                0x000000000800112c                I2C1_EV_IRQHandler
+                0x000000000800112c                DMA1_Channel6_IRQHandler
+                0x000000000800112c                TIM3_IRQHandler
+                0x000000000800112c                RCC_IRQHandler
+                0x000000000800112c                TIM1_TRG_COM_IRQHandler
+                0x000000000800112c                DMA1_Channel1_IRQHandler
+                0x000000000800112c                Default_Handler
+                0x000000000800112c                EXTI15_10_IRQHandler
+                0x000000000800112c                EXTI9_5_IRQHandler
+                0x000000000800112c                SPI2_IRQHandler
+                0x000000000800112c                MemManage_Handler
+                0x000000000800112c                SVC_Handler
+                0x000000000800112c                DMA1_Channel5_IRQHandler
+                0x000000000800112c                EXTI4_IRQHandler
+                0x000000000800112c                USB_LP_CAN1_RX0_IRQHandler
+                0x000000000800112c                USB_HP_CAN1_TX_IRQHandler
+                0x000000000800112c                DMA1_Channel3_IRQHandler
+                0x000000000800112c                TIM1_UP_IRQHandler
+                0x000000000800112c                WWDG_IRQHandler
+                0x000000000800112c                TIM2_IRQHandler
+                0x000000000800112c                TIM1_BRK_IRQHandler
+                0x000000000800112c                EXTI1_IRQHandler
+                0x000000000800112c                USART2_IRQHandler
+                0x000000000800112c                I2C2_ER_IRQHandler
+                0x000000000800112c                DMA1_Channel2_IRQHandler
+                0x000000000800112c                CAN1_SCE_IRQHandler
+                0x000000000800112c                FLASH_IRQHandler
+                0x000000000800112c                BusFault_Handler
+                0x000000000800112c                USART1_IRQHandler
+                0x000000000800112c                I2C1_ER_IRQHandler
+                0x000000000800112c                USBWakeUp_IRQHandler
+ .text.SystemInit
+                0x000000000800112e        0xc mcu/stm32f103c8t6/core/system_stm32f1xx.o
+                0x000000000800112e                SystemInit
+ .text._ZNK9rom_class3fooEv
+                0x000000000800113a       0x14 main.o
+                0x000000000800113a                rom_class::foo() const
+ .text._ZN5T_RCC6PortOnIJL5Gport4ELS1_8ELS1_16EEEEvv
+                0x000000000800114e       0x24 main.o
+                0x000000000800114e                void T_RCC::PortOn<(Gport)4, (Gport)8, (Gport)16>()
+ .text._ZN5T_RCC7SetBitsIJLh4ELh8ELh16EEEEhv
+                0x0000000008001172       0x14 main.o
+                0x0000000008001172                unsigned char T_RCC::SetBits<(unsigned char)4, (unsigned char)8, (unsigned char)16>()
+ .text.abort    0x0000000008001186        0xe /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o)
+                0x0000000008001186                abort
+ .text.__libc_init_array
+                0x0000000008001194       0x48 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+                0x0000000008001194                __libc_init_array
+ .text.memcpy   0x00000000080011dc       0x1c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+                0x00000000080011dc                memcpy
+ .text._raise_r
+                0x00000000080011f8       0x50 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+                0x00000000080011f8                _raise_r
+ .text.raise    0x0000000008001248       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+                0x0000000008001248                raise
+ .text._kill_r  0x0000000008001258       0x24 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+                0x0000000008001258                _kill_r
+ .text._getpid_r
+                0x000000000800127c        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+                0x000000000800127c                _getpid_r
+ .text._getpid  0x0000000008001280       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+                0x0000000008001280                _getpid
+ .text._kill    0x0000000008001290       0x10 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+                0x0000000008001290                _kill
+ .text._exit    0x00000000080012a0        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+                0x00000000080012a0                _exit
+ *(.glue_7)
+ .glue_7        0x00000000080012a4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000080012a4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00000000080012a4        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x00000000080012a4        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x00000000080012a4                _init
+ .init          0x00000000080012a8        0x8 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x00000000080012b0        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x00000000080012b0                _fini
+ .fini          0x00000000080012b4        0x8 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x00000000080012bc                . = ALIGN (0x4)
+                0x00000000080012bc                _etext = .
+
+.vfp11_veneer   0x00000000080012bc        0x0
+ .vfp11_veneer  0x00000000080012bc        0x0 linker stubs
+
+.v4_bx          0x00000000080012bc        0x0
+ .v4_bx         0x00000000080012bc        0x0 linker stubs
+
+.iplt           0x00000000080012bc        0x0
+ .iplt          0x00000000080012bc        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x00000000080012bc        0xc
+                0x00000000080012bc                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x00000000080012bc        0xc main.o
+ *(.rodata*)
+                0x00000000080012c8                . = ALIGN (0x4)
+
+.ARM.extab      0x00000000080012c8       0x24
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text._ZNK9rom_class3fooEv
+                0x00000000080012c8        0x0 main.o
+ .ARM.extab     0x00000000080012c8        0xc main.o
+ .ARM.extab.text._ZN5T_RCC6PortOnIJL5Gport4ELS1_8ELS1_16EEEEvv
+                0x00000000080012d4        0x0 main.o
+ .ARM.extab.text._ZN5T_RCC7SetBitsIJLh4ELh8ELh16EEEEhv
+                0x00000000080012d4        0x0 main.o
+ .ARM.extab     0x00000000080012d4       0x18 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+
+.ARM            0x00000000080012ec       0xc0
+                0x00000000080012ec                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text._ZNK9rom_class3fooEv
+                0x00000000080013ac        0x0 main.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x00000000080012ec        0x8 main.o
+ .ARM.exidx.text._ZN5T_RCC6PortOnIJL5Gport4ELS1_8ELS1_16EEEEvv
+                0x00000000080013ac        0x0 main.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx.text._ZN5T_RCC7SetBitsIJLh4ELh8ELh16EEEEhv
+                0x00000000080013ac        0x0 main.o
+                                          0x8 (size before relaxing)
+ .ARM.exidx     0x00000000080012f4       0x80 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+                                         0xd8 (size before relaxing)
+ .ARM.exidx     0x0000000008001374       0x38 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+                0x00000000080013ac                __exidx_end = .
+
+.rel.dyn        0x00000000080013ac        0x0
+ .rel.iplt      0x00000000080013ac        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.preinit_array  0x00000000080013ac        0x0
+                0x00000000080013ac                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00000000080013ac                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000000080013ac        0x4
+                0x00000000080013ac                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00000000080013ac        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x00000000080013b0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000000080013b0        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00000000080013b0        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x00000000080013b4                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x6c load address 0x00000000080013b4
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000        0x8 main.o
+                0x0000000020000000                ram_glob_var
+ *(.data*)
+ .data._impure_ptr
+                0x0000000020000008        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                0x0000000020000008                _impure_ptr
+ .data.impure_data
+                0x000000002000000c       0x60 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                0x000000002000006c                . = ALIGN (0x4)
+                0x000000002000006c                _edata = .
+
+.igot.plt       0x000000002000006c        0x0 load address 0x0000000008001420
+ .igot.plt      0x000000002000006c        0x0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x000000002000006c                . = ALIGN (0x4)
+
+.bss            0x000000002000006c       0x30 load address 0x0000000008001420
+                0x000000002000006c                _sbss = .
+                0x000000002000006c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000006c       0x1c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x0000000020000088       0x10 main.o
+                0x0000000020000088                ptr1
+                0x000000002000008c                ptr2
+                0x0000000020000090                ptr3
+ *(.bss*)
+ .bss.errno     0x0000000020000098        0x4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x0000000020000098                errno
+ *(COMMON)
+                0x000000002000009c                . = ALIGN (0x4)
+                0x000000002000009c                _ebss = .
+                0x000000002000009c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000002000009c      0x604 load address 0x0000000008001420
+                0x00000000200000a0                . = ALIGN (0x8)
+ *fill*         0x000000002000009c        0x4 
+                0x00000000200000a0                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x00000000200002a0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200000a0      0x200 
+                0x00000000200006a0                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200002a0      0x400 
+                0x00000000200006a0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x21 mcu/stm32f103c8t6/core/startup_stm32f103xb.o
+ .ARM.attributes
+                0x000000000000006b       0x2b mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .ARM.attributes
+                0x0000000000000096       0x2b main.o
+ .ARM.attributes
+                0x00000000000000c1       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x00000000000000ee       0x1d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x000000000000010b       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x0000000000000138       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o)
+ .ARM.attributes
+                0x0000000000000165       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000192       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000001bf       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000001ec       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .ARM.attributes
+                0x0000000000000219       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000000000000246       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000273       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+ .ARM.attributes
+                0x00000000000002a0       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+ .ARM.attributes
+                0x00000000000002cd       0x2d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000000002fa       0x1d /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(build/test.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libm.a
+LOAD /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a
+
+.debug_info     0x0000000000000000      0x70f
+ .debug_info    0x0000000000000000      0x25a mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .debug_info    0x000000000000025a      0x4b5 main.o
+
+.debug_abbrev   0x0000000000000000      0x37e
+ .debug_abbrev  0x0000000000000000      0x13a mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .debug_abbrev  0x000000000000013a      0x244 main.o
+
+.debug_loc      0x0000000000000000      0x1e0
+ .debug_loc     0x0000000000000000       0xa0 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .debug_loc     0x00000000000000a0      0x140 main.o
+
+.debug_aranges  0x0000000000000000       0x60
+ .debug_aranges
+                0x0000000000000000       0x28 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .debug_aranges
+                0x0000000000000028       0x38 main.o
+
+.debug_ranges   0x0000000000000000       0x40
+ .debug_ranges  0x0000000000000000       0x18 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .debug_ranges  0x0000000000000018       0x28 main.o
+
+.debug_line     0x0000000000000000      0x387
+ .debug_line    0x0000000000000000      0x1e3 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .debug_line    0x00000000000001e3      0x1a4 main.o
+
+.debug_str      0x0000000000000000      0x406
+ .debug_str     0x0000000000000000      0x208 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+                                        0x259 (size before relaxing)
+ .debug_str     0x0000000000000208      0x1fe main.o
+                                        0x31b (size before relaxing)
+
+.comment        0x0000000000000000       0x4d
+ .comment       0x0000000000000000       0x4d mcu/stm32f103c8t6/core/system_stm32f1xx.o
+                                         0x4e (size before relaxing)
+ .comment       0x000000000000004d       0x4e main.o
+
+.debug_frame    0x0000000000000000      0x710
+ .debug_frame   0x0000000000000000       0x58 mcu/stm32f103c8t6/core/system_stm32f1xx.o
+ .debug_frame   0x0000000000000058       0xa4 main.o
+ .debug_frame   0x00000000000000fc      0x2e0 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(unwind-arm.o)
+ .debug_frame   0x00000000000003dc       0xf4 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/libgcc.a(pr-support.o)
+ .debug_frame   0x00000000000004d0       0x28 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-abort.o)
+ .debug_frame   0x00000000000004f8       0x2c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000524       0x28 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000000000000054c       0xcc /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000618       0x3c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000654       0x5c /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000000006b0       0x20 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+ .debug_frame   0x00000000000006d0       0x20 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+ .debug_frame   0x00000000000006f0       0x20 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(_exit.o)
+
+.stab           0x0000000000000000       0x3c
+ .stab          0x0000000000000000       0x24 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
+ .stab          0x0000000000000024       0x18 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(kill.o)
+                                         0x24 (size before relaxing)
+
+.stabstr        0x0000000000000000       0x76
+ .stabstr       0x0000000000000000       0x76 /usr/local/share/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a(getpid.o)
