@@ -44,7 +44,8 @@ void usart(void) {
 }
 
 int main(void) {
-    HAL_Init();
+    HAL_StatusTypeDef status;
+    status = HAL_Init();
     init();
     int local1;
     int local2 = 5;
@@ -55,16 +56,14 @@ int main(void) {
     ptr1 = &b;
     ptr2 = &rom_glob_var;
     ptr3 = &ram_glob_var;
-    HAL_NVIC_SetPriority(SysTick_IRQn, 0, 0);
-    HAL_IncTick();
+    NVIC_SetPriority(SysTick_IRQn, 0x0);
     HAL_Delay(100);
     T_RCC & RCC1 = *static_cast<T_RCC *>RCC;
     RCC1.PortOn<Gport::A, Gport::B, Gport::C>();
     b.foo();
     uint8_t data = 25;
-    HAL_StatusTypeDef ab;
     while(1){
-        ab = HAL_UART_Transmit(&UART1_InitStructure, &data, 1, 0);
+        status = HAL_UART_Transmit(&UART1_InitStructure, &data, 1, 0);
         HAL_Delay(100);
     }
 }
